@@ -1,4 +1,4 @@
-<h1> Hi! :wave: </h1>
+<h1> Congratulation!, You found a legend! :sunglasses: </h1>
 
 ```rust
 fn main() {
