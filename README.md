@@ -30,10 +30,8 @@ fn main() {
         
 ## Find Me :mag:
 
- [![YouTube Channel](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/EbrahimAlkadim)
+ [![YouTube Channel](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ebrahimalkadim)
  <br/>
- [![Facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=facebook)](https://www.fb.com/ebrahimonfire98)
- <br/>
- [![Twitter](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/heyiamhema)
+ [![Facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/61559371930012)
  <br/>
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ebrahimalkadim/)
